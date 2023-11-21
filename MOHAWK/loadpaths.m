@@ -1,0 +1,1 @@
+filepath='C:\Users\micromed\Documents\MATLAB\stroke_connectivity\';
